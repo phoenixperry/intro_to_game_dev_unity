@@ -9,9 +9,10 @@ This class will serve to introduce you to game development in the Unity Engine w
 
 Students are expected to pitch, design, document and develop a **2D** game based on a theme will other members of this class. Additionally, each group will need to write a game design document for their project and maintain a week by week project blog. This course adopts the game jam format to encourage prototyping and experimentation within the classroom context. 
   
-All notes will be uploaded to this location on github: 
+All notes will be uploaded in the `class_notes` folder above. 
 
-Throughout class there will also be 3-5 mini-code challenges students are encouraged to do and if a mark is between two scores participates in all of these mini-challenges throughout the term will tip the mark upward. 
+All code will be uploaded in the `class_code` folder above. 
+  
 
 ####Assessment: 
 | Number        | Type              | Description   | Due Date   | Relative Weight| 
@@ -19,6 +20,7 @@ Throughout class there will also be 3-5 mini-code challenges students are encour
 1    | Major Project | Major Project | Your final lab session | 70% | 
 2     | Documentation of Project      |  A) Design document. B) Ongoing progress blog | A) Last lab session. B) Week by week due by the lab session | 30%
 
+Throughout class, there will also be 3-5 mini-code challenges students are encouraged to do. If a mark is between two scores participation in all of these mini-challenges throughout the term will tip the mark upwards.
 
 ##Week by week 
 This class will run like a 10 week long game jam with winners announced at the end. Further, we will open up the class on week 10 to anyone who wishes to attend and play the developed games. 
@@ -31,7 +33,9 @@ Intro to Unity Interface, game objects and components.
 #####Week 2: 
 Game Jam theme announced! 
 
-Introduction to the C# programming language and unity basics continued. Transformation and parenting explained.  
+Introduction to the C# programming language and unity basics continued. 
+
+Transformation and parenting explained.  
 
 Homework: Form teams and develop ideas. 
 
@@ -46,14 +50,22 @@ Proposals should include the following in a PDF document:
 * Survey of similar game tiles and market analysis of who your player will be 
 * Scope of your project. Is it accomplishable?    
 
+Upload this document to learn.gold no later than the end of this lab session. 
+
 Feedback will be given in class and if you fail this presentation you are expected to re-present week 4.  
 
+If your project is accepted, this is the point you should start writing your design document. 
+
+Here's some great information on how to do this: http://gamedevelopment.tutsplus.com/articles/how-and-why-to-write-a-great-game-design-document--cms-23545  
+
 #####Week 4: 
-Collisions and Physics 
+Collisions and Physics.
+ 
 Any failed proposals must resubmit their proposal to the group. 
 
 #####Week 5: 
-Events, messages 
+Events and messages. 
+ 
 Project plans due. 
 What is expected: 
 * A timeline
@@ -62,10 +74,10 @@ What is expected:
 * One contact point for the group. 
 
 #####Week 6: 
-State Machines and Levels 
+State Machines and Levels. 
 
 #####Week 7: 
-Animation In Unity 
+Animation In Unity.  
 
 #####Week 8: 
 Check in moment with all groups. Present works in progress for 2 minutes per group. 
@@ -76,7 +88,8 @@ Delegates.
 
 #####Week 10: 
 Final presentations due in class. 
-You are expected to pitch your game in it's full glory for the room. Your talk should be 10 minutes long and include the following: 
+
+You are expected to pitch your game in its full glory for the room. Your talk should be 10 minutes long and include the following in a pdf document: 
 * Project name and logo
 * List of all contributors and their contribution 
 * The game synopsis 
@@ -86,6 +99,10 @@ How does your game fit into the larger industry? Why is it different or more uni
 * Challenge you faced and overcome
 * Next steps 
 
-This presentation and all of game code must be handed in at the end of class in the form of a zip uploaded to learn.gold by the end of the lab session. 
+Additionally, each team should have a completed 1000-5000 word design document. 
+
+This presentation, the design document and the unity project folder must be handed in at the end of class in the form of a zip uploaded to learn.gold by the end of the lab session. 
+
+If the file is too large for learn.gold, link to it online from learn.gold. 
 
 
