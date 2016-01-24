@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{462E8962-B7B4-71D5-A118-3E5A0E3BE4A2}") = "Week02_transformation_parenting", "Assembly-CSharp.csproj", "{2EAF1238-FEA9-935A-1DE2-DC5FC7FD9857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAF1238-FEA9-935A-1DE2-DC5FC7FD9857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAF1238-FEA9-935A-1DE2-DC5FC7FD9857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAF1238-FEA9-935A-1DE2-DC5FC7FD9857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAF1238-FEA9-935A-1DE2-DC5FC7FD9857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UFO_Game.unity
+  isLoaded: 1
+  isActive: 1
