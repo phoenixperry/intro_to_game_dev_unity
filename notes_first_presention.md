@@ -8,13 +8,13 @@ Think about your art. There's a lack of focus on game art. More illustrative scr
 ----
 #####Team: Adam Bader Gregory Burton Daniel San
 
-Notes: Alien Invasion 
+Notes: Alienated 
 Unclear idea, no defined logo, no defined game play no defined mechanic 
 What kind of horror, what kind of fps? 
 
 Games to consider: Flock 
 
-Actions: fail and represent next week 
+Actions: pass! I love the development so far.  
 
 #####Team: Alice Casey, Fabio Hernandez , Katie Carnohan
 Notes: Galaxy Golf 
@@ -50,14 +50,14 @@ Notes: Great presentation. Try this as a card game, scope could ruin you.
 
 Games to reference: Reassembly, FTL, Convoy  
  
-Actions: pass but there's a lack of clear mechanic and too many ideas. We want to see this as a card game next week. 
+Actions: pass
 
 ##### Team: Arsen Khadzegov, Ilya Philips, Andrea Vanoli
 Drydock 
 
 Notes: PDF presentation! Logo is getting there.  
  
-Actions: Bring this back as a card game next week. Needs scope clarity. This project passes but just. Needs to define what the core game loop should be. Moment to moment game play is unclear. 
+Actions: Pass and move forward 
 
 ##### Team: Malik, Abdul-Haseeb, Awais Ali, Khalil Pearce  
 Rocket 
@@ -70,3 +70,17 @@ Attack on Mars
 Notes:  Like of tank idea, granularity of the design should be clarified. 
  
 Actions: pass and continue 
+
+
+#####Team: James Dolan, Leyla Mana Zdenko Brazda jdola001 
+
+Emerald State 
+
+-5 points for late presentation 
+
+Notes: Needs to define goal. Needs clearer player motivation. 
+
+Actions: pass but if you'd come to class, I'd asked you to represent. This is a really underdeveloped project. Additionally, no logo is here.  Please check in post reading week. 
+
+
+

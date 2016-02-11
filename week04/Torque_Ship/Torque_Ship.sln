@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6F26D54C-7E38-CFB1-CA57-46C483BD853D}") = "Torque_Ship", "Assembly-CSharp.csproj", "{4B03D38C-39FA-F4B9-7508-2B6FBFD14043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B03D38C-39FA-F4B9-7508-2B6FBFD14043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B03D38C-39FA-F4B9-7508-2B6FBFD14043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B03D38C-39FA-F4B9-7508-2B6FBFD14043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B03D38C-39FA-F4B9-7508-2B6FBFD14043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
