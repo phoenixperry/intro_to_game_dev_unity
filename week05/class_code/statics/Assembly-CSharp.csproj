@@ -45,7 +45,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Animate.cs" />
      <Compile Include="Assets\Enemy_Creator.cs" />
+     <Compile Include="Assets\Play_behavior.cs" />
+     <Compile Include="Assets\Populate_Screen.cs" />
+     <Compile Include="Assets\RandomTint.cs" />
+     <Compile Include="Assets\StarManager.cs" />
      <Compile Include="Assets\Static_counter.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

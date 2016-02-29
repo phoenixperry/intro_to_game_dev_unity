@@ -11,11 +11,11 @@ public class Enemy_Creator : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyUp (KeyCode.S)) {
-			//GameObject new_enemy = Instantiate (enemy, transform.position, transform.rotation) as GameObject;
-			int x = enemy 
-	
+			Vector3 rand = new Vector3((float)Random.Range(-10, 10),0.0f, 0.0f); 
+			GameObject new_enemy = Instantiate (enemy, rand, transform.rotation) as GameObject;
+			int x = Static_counter.num_created; 
+			Debug.Log (x); 
 		}
 	}
-
 
 }
