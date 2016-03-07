@@ -4,28 +4,23 @@ using System.Collections;
 public class Play_behavior : MonoBehaviour {
 	
 
-	public bool HitState = false; 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	}
+	public bool HitState = false;  // this is a state machine 
+
 
 	void StarClicked(){
-		gameObject.GetComponent<Animate> ().speed = (float)gameObject.GetComponent<Animate> ().speed * -1.0f;
+		gameObject.GetComponent<Animate> ().speed *= -1.0f;
 		Debug.Log (gameObject.GetComponent<Animate> ().speed); 
 	}
 
+	//this is for Unity's event system  
 	void OnEnable()
 	{
-		StarManager.OnClicked += StarClicked;
+		StarManager.Pickles += StarClicked;
 	}
 
+	//event system  
 	void OnDisable(){
-		StarManager.OnClicked -= StarClicked;
+		StarManager.Pickles -= StarClicked;
 	}
 
 	void OnMouseDown(){
@@ -33,4 +28,5 @@ public class Play_behavior : MonoBehaviour {
 		HitState = true; 
 		StarManager.Score++; 
 	}
+
 }

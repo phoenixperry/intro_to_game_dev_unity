@@ -15,11 +15,11 @@ public class RandomTint : MonoBehaviour {
 
 	void OnEnable()
 	{
-		StarManager.OnClicked += RandomColor;
+		StarManager.Pickles += RandomColor;
 	}
 
 	void OnDisable(){
-		StarManager.OnClicked -= RandomColor;
+		StarManager.Pickles -= RandomColor;
 	}
 
 	void RandomColor(){
