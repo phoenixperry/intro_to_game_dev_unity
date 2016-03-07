@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\TriggerController.cs" />
      <Compile Include="Assets\ZombieAnimator.cs" />
      <Compile Include="Assets\ZombieController.cs" />
  <Reference Include="UnityEngine.UI">
