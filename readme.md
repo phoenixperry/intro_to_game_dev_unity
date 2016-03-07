@@ -100,9 +100,14 @@ How does your game fit into the larger industry? Why is it different or more uni
 * Next steps 
 
 Additionally, each team should have a completed 1000-5000 word design document. 
+Additionally, each team should have a completed 1000-5000 word design document.
 
-This presentation, the design document and the unity project folder must be handed in at the end of class in the form of a zip uploaded to learn.gold by the end of the lab session. 
+Most likely everyone would run out of room on learn.gold for your projects if we attempt to upload them 
 
-If the file is too large for learn.gold, link to it online from learn.gold. 
+As a result, I would like a link to download your game at the top of your design document saved as a PDF. 
+
+Do not forget to LIST ALL GROUP MEMBERS at the top of the design document and include the name of your game. 
+
+Save your design document as PDF and upload on learn.gold in the open assignment in week 10. 
 
 
