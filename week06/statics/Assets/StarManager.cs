@@ -41,7 +41,8 @@ public class StarManager : MonoBehaviour {
 			if (Pickles != null) {
 					Pickles (); 
 			}
-				Application.LoadLevel ("SwitchScene"); 
+				//this is how to load a level! :D 
+				//Application.LoadLevel ("SwitchScene"); 
 
 			s.GetComponent<Play_behavior> ().HitState = false; 
 		}
