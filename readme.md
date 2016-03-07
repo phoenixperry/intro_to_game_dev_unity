@@ -84,9 +84,6 @@ Check in moment with all groups. Present works in progress for 2 minutes per gro
 Space in unity explained. Unity UI lecture. 
 
 #####Week 9: 
-Delegates. 
-
-#####Week 10: 
 Final presentations due in class. 
 
 You are expected to pitch your game in its full glory for the room. Your talk should be 10 minutes long and include the following in a pdf document: 
