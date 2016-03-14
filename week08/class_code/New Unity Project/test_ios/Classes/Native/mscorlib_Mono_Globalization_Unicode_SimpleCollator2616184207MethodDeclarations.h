@@ -1,0 +1,29 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+#include <assert.h>
+#include <exception>
+
+
+#include "codegen/il2cpp-codegen.h"
+#include "mscorlib_Mono_Globalization_Unicode_SimpleCollator2616184207.h"
+#include "mscorlib_System_Globalization_CompareOptions1115053679.h"
+
+// System.Void Mono.Globalization.Unicode.SimpleCollator/Context::.ctor(System.Globalization.CompareOptions,System.Byte*,System.Byte*,System.Byte*,System.Byte*,System.Byte*,System.Boolean)
+extern "C"  void Context__ctor_m1103265712 (Context_t2616184207 * __this, int32_t ___opt, uint8_t* ___alwaysMatchFlags, uint8_t* ___neverMatchFlags, uint8_t* ___buffer1, uint8_t* ___buffer2, uint8_t* ___prev1, bool ___quickCheckPossible, const MethodInfo* method) IL2CPP_METHOD_ATTR;
+
+// Methods for marshaling
+struct Context_t2616184207;
+struct Context_t2616184207_marshaled;
+
+extern "C" void Context_t2616184207_marshal(const Context_t2616184207& unmarshaled, Context_t2616184207_marshaled& marshaled);
+extern "C" void Context_t2616184207_marshal_back(const Context_t2616184207_marshaled& marshaled, Context_t2616184207& unmarshaled);
+extern "C" void Context_t2616184207_marshal_cleanup(Context_t2616184207_marshaled& marshaled);
