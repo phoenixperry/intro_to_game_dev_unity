@@ -1,4 +1,4 @@
-//Generated on : 3/14/2016 10:37:58 AM
+//Generated on : 3/14/2016 1:45:12 PM
 void RegisterAllStrippedInternalCalls()
 {
 	//Start Registrations for type : UnityEngine.AnimationCurve
@@ -206,6 +206,18 @@ void RegisterAllStrippedInternalCalls()
 		//System.Void UnityEngine.Camera::INTERNAL_CALL_ScreenToViewportPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)
 		void Register_UnityEngine_Camera_INTERNAL_CALL_ScreenToViewportPoint();
 		Register_UnityEngine_Camera_INTERNAL_CALL_ScreenToViewportPoint();
+
+		//System.Void UnityEngine.Camera::INTERNAL_CALL_ViewportToWorldPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)
+		void Register_UnityEngine_Camera_INTERNAL_CALL_ViewportToWorldPoint();
+		Register_UnityEngine_Camera_INTERNAL_CALL_ViewportToWorldPoint();
+
+		//System.Void UnityEngine.Camera::INTERNAL_CALL_WorldToScreenPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)
+		void Register_UnityEngine_Camera_INTERNAL_CALL_WorldToScreenPoint();
+		Register_UnityEngine_Camera_INTERNAL_CALL_WorldToScreenPoint();
+
+		//System.Void UnityEngine.Camera::INTERNAL_CALL_WorldToViewportPoint(UnityEngine.Camera,UnityEngine.Vector3&,UnityEngine.Vector3&)
+		void Register_UnityEngine_Camera_INTERNAL_CALL_WorldToViewportPoint();
+		Register_UnityEngine_Camera_INTERNAL_CALL_WorldToViewportPoint();
 
 		//System.Void UnityEngine.Camera::INTERNAL_get_pixelRect(UnityEngine.Rect&)
 		void Register_UnityEngine_Camera_INTERNAL_get_pixelRect();
@@ -1055,6 +1067,10 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Input_GetButtonDown();
 		Register_UnityEngine_Input_GetButtonDown();
 
+		//System.Boolean UnityEngine.Input::GetKeyDownInt(System.Int32)
+		void Register_UnityEngine_Input_GetKeyDownInt();
+		Register_UnityEngine_Input_GetKeyDownInt();
+
 		//System.Boolean UnityEngine.Input::GetMouseButton(System.Int32)
 		void Register_UnityEngine_Input_GetMouseButton();
 		Register_UnityEngine_Input_GetMouseButton();
@@ -1715,6 +1731,10 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Renderer_get_sortingOrder();
 		Register_UnityEngine_Renderer_get_sortingOrder();
 
+		//System.Void UnityEngine.Renderer::INTERNAL_get_bounds(UnityEngine.Bounds&)
+		void Register_UnityEngine_Renderer_INTERNAL_get_bounds();
+		Register_UnityEngine_Renderer_INTERNAL_get_bounds();
+
 	//End Registrations for type : UnityEngine.Renderer
 
 	//Start Registrations for type : UnityEngine.RenderTexture
@@ -2114,6 +2134,10 @@ void RegisterAllStrippedInternalCalls()
 		//System.Void UnityEngine.Transform::INTERNAL_set_localScale(UnityEngine.Vector3&)
 		void Register_UnityEngine_Transform_INTERNAL_set_localScale();
 		Register_UnityEngine_Transform_INTERNAL_set_localScale();
+
+		//System.Void UnityEngine.Transform::INTERNAL_set_position(UnityEngine.Vector3&)
+		void Register_UnityEngine_Transform_INTERNAL_set_position();
+		Register_UnityEngine_Transform_INTERNAL_set_position();
 
 		//System.Void UnityEngine.Transform::SetAsFirstSibling()
 		void Register_UnityEngine_Transform_SetAsFirstSibling();

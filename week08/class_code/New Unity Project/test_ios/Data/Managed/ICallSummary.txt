@@ -41,6 +41,9 @@ UnityEngine.Camera::get_farClipPlane
 UnityEngine.Camera::get_nearClipPlane
 UnityEngine.Camera::INTERNAL_CALL_ScreenPointToRay
 UnityEngine.Camera::INTERNAL_CALL_ScreenToViewportPoint
+UnityEngine.Camera::INTERNAL_CALL_ViewportToWorldPoint
+UnityEngine.Camera::INTERNAL_CALL_WorldToScreenPoint
+UnityEngine.Camera::INTERNAL_CALL_WorldToViewportPoint
 UnityEngine.Camera::INTERNAL_get_pixelRect
 UnityEngine.Camera::get_main
 UnityEngine.Camera::get_clearFlags
@@ -231,6 +234,7 @@ UnityEngine.GUIUtility::Internal_ExitGUI
 UnityEngine.GUIUtility::set_systemCopyBuffer
 UnityEngine.GUIUtility::Internal_GetDefaultSkin
 UnityEngine.Input::GetButtonDown
+UnityEngine.Input::GetKeyDownInt
 UnityEngine.Input::GetMouseButton
 UnityEngine.Input::GetMouseButtonDown
 UnityEngine.Input::GetMouseButtonUp
@@ -377,6 +381,7 @@ UnityEngine.RectTransformUtility::INTERNAL_CALL_PixelAdjustPoint
 UnityEngine.RectTransformUtility::INTERNAL_CALL_PixelAdjustRect
 UnityEngine.Renderer::get_sortingLayerID
 UnityEngine.Renderer::get_sortingOrder
+UnityEngine.Renderer::INTERNAL_get_bounds
 UnityEngine.RenderTexture::Internal_GetHeight
 UnityEngine.RenderTexture::Internal_GetWidth
 UnityEngine.Resources::Load
@@ -460,6 +465,7 @@ UnityEngine.Transform::INTERNAL_get_worldToLocalMatrix
 UnityEngine.Transform::INTERNAL_set_localPosition
 UnityEngine.Transform::INTERNAL_set_localRotation
 UnityEngine.Transform::INTERNAL_set_localScale
+UnityEngine.Transform::INTERNAL_set_position
 UnityEngine.Transform::SetAsFirstSibling
 UnityEngine.Transform::SetParent
 UnityEngine.Transform::set_parentInternal
