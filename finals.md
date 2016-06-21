@@ -2,6 +2,8 @@ Finals
 
 #####Team: Adam Bader Gregory Burton Daniel San
 
+https://playalienated.wordpress.com
+
 Notes: Alienated 
 * Visual distinction needed throughout the game 
 * Font elements need cleaned up
@@ -9,15 +11,15 @@ Notes: Alienated
 * animation would of been great to tell the story 
 * environment didn't reflect the game 
 
-https://playalienated.wordpress.com
-
 Contact person: Daniel San  
 Mark: 70
 
 #####Team: Alice Casey, Fabio Hernandez, Katie Carnohan
+
 Notes: Galaxy Golf
 
 http://firesparkle.github.io/galaxy-golf
+
 * a power point would have been nice with slides 
 * good job being agile 
 * good job of taking your time tuning 
@@ -34,7 +36,8 @@ Mark: 70
 #####Team: Huseyin Geyik, Luke Marchant, Owen Robinson 
 Notes: Perfect Angle 
 
-Mark: 
+Url: http://perfectanglesgame.blogspot.co.uk 
+
 * great trailer 
 * great time management 
 * font usage could improve 
@@ -43,14 +46,16 @@ Mark:
 * play testing is needed 
 * tune this with player testing 
 
+Contact person Owen Robinson
+ 
 Mark: 75 
 
-Contact person Owen Robinson 
-
-Url: http://perfectanglesgame.blogspot.co.uk 
 
 
 #####Team: Elliott Gossett, Jake Sparrow-Hunter, Osman Abdul-moomin, Jiong Yan (missed all classes but one at week 9) 
+
+Url: http://igor.gold.ac.uk/~jspar002/Proxemic/
+
 Notes: Proxemic 
 * mini-games controlling the outcome of conversations is rad 
 * good setup 
@@ -58,19 +63,19 @@ Notes: Proxemic
 * good sound and UI 
 * player feedback is hard to read 
 
+Contact person: Elliott Gossett  
+
 Mark: 65
 
-Contact person: Elliott Gossett 
-
-project blog: http://igor.gold.ac.uk/~jspar002/Proxemic/ 
 
 
 ##### Team: Benedict Henshaw, Brian Rocha, Bashar Saada 
-Intersteller Courier  
 
-blog: https://github.com/Basher207/AstroidDefence
-Point of contact: Brian Confessor 
-Notes: 
+
+Url: https://github.com/Basher207/AstroidDefence
+
+Notes: Intersteller Courier  
+
 * presentation is lacking all of the points: 
 Project name and logo
 List of all contributors and their contribution
@@ -84,7 +89,6 @@ The context of your project. How does your game fit into the larger industry? Wh
 Challenge you faced and overcome
 
 Next steps
-
 * this game has a ton of explanation 
 * there was no story of magic here 
 * you all really need to learn to think like designers vs. just devs 
@@ -94,12 +98,17 @@ Next steps
 * no sound 
 * the AI is dumb 
 
+Point of contact: Brian Confessor 
+
 Mark 61 
 
-##### Team: Arsen Khadzegov, Ilya Philips, Andrea Vanoli
-Drydock 
 
-Notes: 
+##### Team: Arsen Khadzegov, Ilya Philips, Andrea Vanoli
+
+Notes: Drydock 
+
+URL: http://hadzabadza.wordpress.com 
+
 * You need energy in your presentation -- you had it in your card presentation. Practice presenting. 
 * good explanation of how you used your cards 
 * good use of scope and management 
@@ -110,32 +119,32 @@ I might of made the UI not a car
 * you need to get the glue together 
 * got a bit down in the weeds technically 
 
+Contact person: Ilya Phillips 
 Mark: 64
 
-Contact person: Ilya Phillips 
-
-URL: http://hadzabadza.wordpress.com 
 
 ##### Team: Abdul-Haseeb  Malik, Awais Ali, Khalil Pearce, Abdul-Khadir (missing member) 
-Rocket 
-Notes: 
+
+Notes: Rocket 
+
+URL: http://www.doc.gold.ac.uk/~amali046/webProg/progress/progress.html
+
 * good presentation 
 * great logo 
 * consistent art package 
 * nice story integration & sound 
-* good use of doing something scalable 
+* good use of doing something scalable
+ 
+Contact Person: Abdul-Haseeb Malik 
 
 Mark: 70
 
-
-URL: http://www.doc.gold.ac.uk/~amali046/webProg/progress/progress.html
-
-Contact Person: Abdul-Haseeb Malik 
-
 ##### Team: Tien Vu, Patryk Wargin, Robin Gyampoh 
-Attack on Mars 
 
-Notes:  
+Notes: Attack on Mars 
+
+Url: http://attackonmarsblog.wordpress.com
+ 
 * great use of iteration 
 * good testing 
 * nice you of collaboration 
@@ -144,26 +153,26 @@ Notes:
 * you could of had a bit more tuning 
 * in game UX needs work 
 
-Mark: 65
-
-url: http://attackonmarsblog.wordpress.com
-
 Contact person: Patryk Wargin 
 
-#####Team: James Dolan, Leyla Mana Zdenko Brazda jdola001 
-Castle Crash 
+Mark: 65
 
-Notes: 
+
+#####Team: James Dolan, Leyla Mana Zdenko Brazda
+ 
+Notes: Castle Crash 
+url: http://gameproject2016.wordpress.com
+
 * you could even skew the age downward 
 * your breakdown on gender ignores industry facts and the popularly of mind craft with little girls 
-
-Mark: 52
 * your enemy space needs some work   
 the UI is starting to get there 
 
-url: http://gameproject2016.wordpress.com
-
 Contact Person: Leyla Mana
+
+Mark: 52
+
+
 
 
 
