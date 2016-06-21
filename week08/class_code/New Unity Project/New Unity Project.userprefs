@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Space.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIManager.cs">
     <Files>
-      <File FileName="Assets/No_loop.cs" Line="5" Column="1" />
-      <File FileName="Assets/UIManager.cs" Line="15" Column="26" />
+      <File FileName="Assets/UIManager.cs" Line="17" Column="3" />
+      <File FileName="Assets/No_loop.cs" Line="1" Column="1" />
       <File FileName="Assets/Space.cs" Line="35" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
